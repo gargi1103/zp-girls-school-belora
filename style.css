@@ -37,35 +37,7 @@ body {
   }
 }
 
-/* Sidebar */
-.sidebar {
-  position: fixed;
-  width: 200px;
-  height: 100%;
-  background: #673ab7;
-  padding-top: 1rem;
-  color: white;
-}
-.sidebar h2 {
-  text-align: center;
-  margin: 0 0 1rem;
-}
-.sidebar ul {
-  list-style: none;
-  padding: 0;
-}
-.sidebar ul li {
-  padding: 0.8rem;
-}
-.sidebar ul li a {
-  color: white;
-  text-decoration: none;
-  display: block;
-}
-.sidebar ul li a:hover {
-  background: #512da8;
-  border-radius: 4px;
-}
+
 
 /* Main Content */
 .main-content {
