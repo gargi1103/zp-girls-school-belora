@@ -40,8 +40,12 @@ body {
 
 
 /* Main Content */
-
-
+.main {
+  height: 100vh; /* Full screen */
+  display: flex;
+  justify-content: center; /* Horizontal */
+  align-items: center;     /* Vertical */
+}
 /* Header */
 header {
   background: #8357cd;
